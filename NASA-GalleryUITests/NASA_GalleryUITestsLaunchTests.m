@@ -1,10 +1,3 @@
-//
-//  NASA_GalleryUITestsLaunchTests.m
-//  NASA-GalleryUITests
-//
-//  Created by A.Pagdanganan on 9/29/22.
-//
-
 #import <XCTest/XCTest.h>
 
 @interface NASA_GalleryUITestsLaunchTests : XCTestCase

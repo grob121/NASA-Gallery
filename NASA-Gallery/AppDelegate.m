@@ -1,10 +1,3 @@
-//
-//  AppDelegate.m
-//  NASA-Gallery
-//
-//  Created by A.Pagdanganan on 9/29/22.
-//
-
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
